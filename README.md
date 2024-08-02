@@ -12,18 +12,24 @@ This Power BI Sales Analysis Dashboard was developed for Talabat to provide an i
 
 The objective of this project was to conduct a comprehensive analysis of Talabat's sales performance, customer satisfaction, and inventory distribution. The goal was to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
-### KPI's Requirements ![image](https://github.com/user-attachments/assets/068263d2-cb13-47d0-b3d0-36207f55dd3b)
+### KPI's Requirements 
+
+![image](https://github.com/user-attachments/assets/068263d2-cb13-47d0-b3d0-36207f55dd3b)
 
 1. **Total Sales**: The overall revenue generated from all items sold.
+
 ![image](https://github.com/user-attachments/assets/03adfa3f-1a4e-40aa-b69c-87d79fba62ab)
 
 2. **Average Sales**: The average revenue per sale.
+
 ![image](https://github.com/user-attachments/assets/9ca58ccc-7db9-451c-b0f8-ca0090d1091f)
 
 3. **Number of Items**: The total count of different items sold.
+
 ![image](https://github.com/user-attachments/assets/c14b745d-dafc-4f4d-9d54-c8e58a9e1b55)
 
 4. **Average Rating**: The average customer rating for items sold.
+
 ![image](https://github.com/user-attachments/assets/2b17e064-ed3f-4e08-907b-afde04871c0c)
 
 
